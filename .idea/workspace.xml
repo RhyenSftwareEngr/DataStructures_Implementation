@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cde5fe12-dbef-45f8-8c81-20b1c3c3dc7e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NATIVIDAD_IndividualPrelimProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Documentation/Documentation_Screenshots/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Documentation/Documentation_Screenshots/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Documentation/Documentation_Screenshots/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Documentation/Documentation_Screenshots/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Documentation/Documentation_Screenshots/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Documentation/Documentation_Screenshots/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Documentation/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prelim/DoublyLinkedNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prelim/DoublyNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prelim/ListOverflowException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prelim/MyDoublyLinkedCircularList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prelim/MyDoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prelim/MyFixedSizeArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prelim/MyGrowingArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prelim/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prelim/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prelim/MySinglyLinkedCircularList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prelim/MySinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prelim/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prelim/Reference_Classes/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prelim/Reference_Classes/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prelim/Tester_Classes/Tester_MyDoublyLinkedCircularList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prelim/Tester_Classes/Tester_MyDoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prelim/Tester_Classes/Tester_MyFixedSizeArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prelim/Tester_Classes/Tester_MyGrowingArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prelim/Tester_Classes/Tester_MySinglyLinkedList.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FAdxCNjJAWiJKMMhnPGzcxQPGD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/NATIVIDAD_IndividualPrelimProject/src/Documentation",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\NATIVIDAD_IndividualPrelimProject\src\Documentation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Tester_MySingularLinkedCircularList">
+    <configuration name="Tester_MyDoublyLinkedCircularList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prelim.Tester_Classes.Tester_MyDoublyLinkedCircularList" />
+      <module name="NATIVIDAD_IndividualPrelimProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prelim.Tester_Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester_MyDoublyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prelim.Tester_Classes.Tester_MyDoublyLinkedList" />
+      <module name="NATIVIDAD_IndividualPrelimProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prelim.Tester_Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester_MyGrowingArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prelim.Tester_Classes.Tester_MyGrowingArrayList" />
+      <module name="NATIVIDAD_IndividualPrelimProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prelim.Tester_Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester_MySinglyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prelim.Tester_Classes.Tester_MySinglyLinkedList" />
+      <module name="NATIVIDAD_IndividualPrelimProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prelim.Tester_Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester_MySingularLinkedCircularList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prelim.Tester_Classes.Tester_MySingularLinkedCircularList" />
+      <module name="NATIVIDAD_IndividualPrelimProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prelim.Tester_Classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tester_MySingularLinkedCircularList" />
+        <item itemvalue="Application.Tester_MyGrowingArrayList" />
+        <item itemvalue="Application.Tester_MyDoublyLinkedList" />
+        <item itemvalue="Application.Tester_MySinglyLinkedList" />
+        <item itemvalue="Application.Tester_MyDoublyLinkedCircularList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cde5fe12-dbef-45f8-8c81-20b1c3c3dc7e" name="Changes" comment="" />
+      <created>1663939067814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663939067814</updated>
+      <workItem from="1663939069225" duration="18181000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
